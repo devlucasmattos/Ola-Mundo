@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro projeto PC
+# Olá, Mundo!
+ Primeiro repositório.
